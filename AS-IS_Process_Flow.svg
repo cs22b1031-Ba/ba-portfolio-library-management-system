@@ -1,0 +1,133 @@
+<svg width="1800" height="1220" viewBox="0 0 1800 1220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#9EA9B5" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="1800" height="1220" fill="#F2EFE8"/>
+  <rect x="36" y="36" width="1728" height="1148" rx="28" fill="#FFFEFB" stroke="#D8D0C4" stroke-width="2"/>
+
+  <rect x="86" y="76" width="1628" height="82" rx="22" fill="#20364E"/>
+  <text x="122" y="126" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">AS-IS PROCESS FLOW</text>
+  <text x="505" y="126" fill="#C7D4E1" font-family="Arial, Helvetica, sans-serif" font-size="18">Current manual library operations in a college / public library setting</text>
+
+  <rect x="86" y="184" width="1120" height="92" rx="18" fill="#F4F7FB" stroke="#D8E1EC"/>
+  <text x="118" y="214" fill="#31495F" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Business Observation</text>
+  <text x="118" y="239" fill="#61707D" font-family="Arial, Helvetica, sans-serif" font-size="17">The current circulation process relies on physical verification, handwritten entries,</text>
+  <text x="118" y="262" fill="#61707D" font-family="Arial, Helvetica, sans-serif" font-size="17">and disconnected record-keeping methods, creating delays and limited control.</text>
+
+  <rect x="1236" y="184" width="478" height="92" rx="18" fill="#FFF5F5" stroke="#E6CFCF"/>
+  <text x="1268" y="214" fill="#8B3434" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Primary Risk</text>
+  <text x="1268" y="239" fill="#6E5A5A" font-family="Arial, Helvetica, sans-serif" font-size="17">Manual dependency increases errors, disputes,</text>
+  <text x="1268" y="262" fill="#6E5A5A" font-family="Arial, Helvetica, sans-serif" font-size="17">and reporting effort.</text>
+
+  <rect x="86" y="292" width="1628" height="204" rx="24" fill="#F7FBFF" stroke="#D7E3F1"/>
+  <rect x="86" y="520" width="1628" height="214" rx="24" fill="#FFF8EE" stroke="#E8D5AB"/>
+  <rect x="86" y="758" width="1628" height="290" rx="24" fill="#FFF4F4" stroke="#E4C9C9"/>
+
+  <rect x="108" y="314" width="190" height="42" rx="14" fill="#E3EEF9"/>
+  <text x="134" y="341" fill="#23486E" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Member Journey</text>
+
+  <rect x="108" y="542" width="218" height="42" rx="14" fill="#FFF0D6"/>
+  <text x="134" y="569" fill="#7A5304" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Librarian Activities</text>
+
+  <rect x="108" y="780" width="252" height="42" rx="14" fill="#FFE4E4"/>
+  <text x="134" y="807" fill="#8B3434" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Control Gaps / Pain Points</text>
+
+  <rect x="210" y="374" width="250" height="92" rx="18" fill="#FFFFFF" stroke="#AFC7E3" stroke-width="2" filter="url(#shadow)"/>
+  <circle cx="240" cy="404" r="15" fill="#DDEAF8"/><text x="234" y="410" fill="#23486E" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">1</text>
+  <text x="266" y="404" fill="#233140" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Search shelves or ask</text>
+  <text x="266" y="432" fill="#5D6A77" font-family="Arial, Helvetica, sans-serif" font-size="17">staff for availability</text>
+
+  <rect x="540" y="374" width="250" height="92" rx="18" fill="#FFFFFF" stroke="#AFC7E3" stroke-width="2" filter="url(#shadow)"/>
+  <circle cx="570" cy="404" r="15" fill="#DDEAF8"/><text x="564" y="410" fill="#23486E" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">2</text>
+  <text x="596" y="404" fill="#233140" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Present ID card at</text>
+  <text x="596" y="432" fill="#5D6A77" font-family="Arial, Helvetica, sans-serif" font-size="17">the circulation desk</text>
+
+  <rect x="870" y="374" width="250" height="92" rx="18" fill="#FFFFFF" stroke="#AFC7E3" stroke-width="2" filter="url(#shadow)"/>
+  <circle cx="900" cy="404" r="15" fill="#DDEAF8"/><text x="894" y="410" fill="#23486E" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">3</text>
+  <text x="926" y="404" fill="#233140" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Return book and wait</text>
+  <text x="926" y="432" fill="#5D6A77" font-family="Arial, Helvetica, sans-serif" font-size="17">for staff confirmation</text>
+
+  <polygon points="1270,376 1410,420 1270,464 1130,420" fill="#FFFFFF" stroke="#AFC7E3" stroke-width="2" filter="url(#shadow)"/>
+  <text x="1208" y="414" fill="#233140" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Fine or due</text>
+  <text x="1198" y="438" fill="#5D6A77" font-family="Arial, Helvetica, sans-serif" font-size="16">clarification?</text>
+  <text x="1428" y="413" fill="#8B3434" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Often unclear</text>
+
+  <rect x="210" y="606" width="270" height="98" rx="18" fill="#FFFFFF" stroke="#D9B36A" stroke-width="2" filter="url(#shadow)"/>
+  <circle cx="240" cy="637" r="15" fill="#FBE7BE"/><text x="234" y="643" fill="#7A5304" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">4</text>
+  <text x="266" y="636" fill="#3D3425" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Check register, shelf,</text>
+  <text x="266" y="664" fill="#6B5E44" font-family="Arial, Helvetica, sans-serif" font-size="17">or spreadsheet manually</text>
+
+  <rect x="540" y="606" width="270" height="98" rx="18" fill="#FFFFFF" stroke="#D9B36A" stroke-width="2" filter="url(#shadow)"/>
+  <circle cx="570" cy="637" r="15" fill="#FBE7BE"/><text x="564" y="643" fill="#7A5304" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">5</text>
+  <text x="596" y="636" fill="#3D3425" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Write issue details</text>
+  <text x="596" y="664" fill="#6B5E44" font-family="Arial, Helvetica, sans-serif" font-size="17">in a physical register</text>
+
+  <rect x="870" y="606" width="270" height="98" rx="18" fill="#FFFFFF" stroke="#D9B36A" stroke-width="2" filter="url(#shadow)"/>
+  <circle cx="900" cy="637" r="15" fill="#FBE7BE"/><text x="894" y="643" fill="#7A5304" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">6</text>
+  <text x="926" y="636" fill="#3D3425" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Verify return and</text>
+  <text x="926" y="664" fill="#6B5E44" font-family="Arial, Helvetica, sans-serif" font-size="17">calculate overdue manually</text>
+
+  <rect x="1200" y="606" width="270" height="98" rx="18" fill="#FFFFFF" stroke="#D9B36A" stroke-width="2" filter="url(#shadow)"/>
+  <circle cx="1230" cy="637" r="15" fill="#FBE7BE"/><text x="1224" y="643" fill="#7A5304" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">7</text>
+  <text x="1256" y="636" fill="#3D3425" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Record fine payment</text>
+  <text x="1256" y="664" fill="#6B5E44" font-family="Arial, Helvetica, sans-serif" font-size="17">in a separate ledger</text>
+
+  <rect x="1500" y="606" width="170" height="98" rx="18" fill="#FFF7EA" stroke="#E8D5AB" stroke-dasharray="6 6"/>
+  <text x="1525" y="643" fill="#7A5304" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">No linked</text>
+  <text x="1525" y="669" fill="#7A5304" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">audit trail</text>
+
+  <rect x="170" y="846" width="300" height="132" rx="18" fill="#FFFFFF" stroke="#D39A9A" stroke-width="2" filter="url(#shadow)"/>
+  <text x="202" y="883" fill="#8B3434" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Availability is not</text>
+  <text x="202" y="909" fill="#6B5A5A" font-family="Arial, Helvetica, sans-serif" font-size="16">visible in real time,</text>
+  <text x="202" y="932" fill="#6B5A5A" font-family="Arial, Helvetica, sans-serif" font-size="16">causing queue delays</text>
+  <text x="202" y="955" fill="#6B5A5A" font-family="Arial, Helvetica, sans-serif" font-size="16">and repeat checks.</text>
+
+  <rect x="530" y="846" width="300" height="132" rx="18" fill="#FFFFFF" stroke="#D39A9A" stroke-width="2" filter="url(#shadow)"/>
+  <text x="562" y="883" fill="#8B3434" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Duplicate data entry</text>
+  <text x="562" y="909" fill="#6B5A5A" font-family="Arial, Helvetica, sans-serif" font-size="16">across registers and files</text>
+  <text x="562" y="932" fill="#6B5A5A" font-family="Arial, Helvetica, sans-serif" font-size="16">increases reconciliation</text>
+  <text x="562" y="955" fill="#6B5A5A" font-family="Arial, Helvetica, sans-serif" font-size="16">effort.</text>
+
+  <rect x="890" y="846" width="300" height="132" rx="18" fill="#FFFFFF" stroke="#D39A9A" stroke-width="2" filter="url(#shadow)"/>
+  <text x="922" y="883" fill="#8B3434" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Overdue fines are</text>
+  <text x="922" y="909" fill="#6B5A5A" font-family="Arial, Helvetica, sans-serif" font-size="16">calculated manually,</text>
+  <text x="922" y="932" fill="#6B5A5A" font-family="Arial, Helvetica, sans-serif" font-size="16">leading to disputes</text>
+  <text x="922" y="955" fill="#6B5A5A" font-family="Arial, Helvetica, sans-serif" font-size="16">and inconsistency.</text>
+
+  <rect x="1250" y="846" width="370" height="152" rx="18" fill="#FFFFFF" stroke="#D39A9A" stroke-width="2" filter="url(#shadow)"/>
+  <text x="1282" y="883" fill="#8B3434" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">Management reporting</text>
+  <text x="1282" y="907" fill="#8B3434" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">and audit support</text>
+  <text x="1282" y="932" fill="#6B5A5A" font-family="Arial, Helvetica, sans-serif" font-size="16">depend on manual compilation,</text>
+  <text x="1282" y="955" fill="#6B5A5A" font-family="Arial, Helvetica, sans-serif" font-size="16">making the process slow</text>
+  <text x="1282" y="978" fill="#6B5A5A" font-family="Arial, Helvetica, sans-serif" font-size="16">and error-prone.</text>
+
+  <path d="M460 420H540" stroke="#7E8E9E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M790 420H870" stroke="#7E8E9E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1120 420H1130" stroke="#7E8E9E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M335 466V606" stroke="#7E8E9E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M665 466V606" stroke="#7E8E9E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M995 466V606" stroke="#7E8E9E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1270 464V606" stroke="#7E8E9E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M320 704V846" stroke="#7E8E9E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M680 704V846" stroke="#7E8E9E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1040 704V846" stroke="#7E8E9E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1435 704V846" stroke="#7E8E9E" stroke-width="4" stroke-linecap="round"/>
+
+  <polygon points="540,420 526,412 526,428" fill="#7E8E9E"/>
+  <polygon points="870,420 856,412 856,428" fill="#7E8E9E"/>
+  <polygon points="1130,420 1116,412 1116,428" fill="#7E8E9E"/>
+  <polygon points="335,606 327,592 343,592" fill="#7E8E9E"/>
+  <polygon points="665,606 657,592 673,592" fill="#7E8E9E"/>
+  <polygon points="995,606 987,592 1003,592" fill="#7E8E9E"/>
+  <polygon points="1270,606 1262,592 1278,592" fill="#7E8E9E"/>
+  <polygon points="320,846 312,832 328,832" fill="#7E8E9E"/>
+  <polygon points="680,846 672,832 688,832" fill="#7E8E9E"/>
+  <polygon points="1040,846 1032,832 1048,832" fill="#7E8E9E"/>
+  <polygon points="1435,846 1427,832 1443,832" fill="#7E8E9E"/>
+
+  <rect x="86" y="1080" width="1628" height="64" rx="18" fill="#EEE8DC"/>
+  <text x="118" y="1110" fill="#5E6977" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">BA Summary Insight</text>
+  <text x="118" y="1134" fill="#667483" font-family="Arial, Helvetica, sans-serif" font-size="17">The current state is people-dependent rather than process-controlled. This creates operational delays, inconsistent records, weak visibility, and unnecessary member dissatisfaction.</text>
+</svg>

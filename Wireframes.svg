@@ -1,0 +1,126 @@
+<svg width="1900" height="1480" viewBox="0 0 1900 1480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#9EA9B5" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+  <rect width="1900" height="1480" fill="#F2EFE8"/>
+  <rect x="34" y="34" width="1832" height="1412" rx="30" fill="#FFFEFB" stroke="#D9D0C3" stroke-width="2"/>
+
+  <rect x="84" y="74" width="1732" height="110" rx="22" fill="#22364D"/>
+  <text x="122" y="119" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">LIBRARY MANAGEMENT SYSTEM - WIREFRAMES</text>
+  <text x="122" y="154" fill="#C7D4E1" font-family="Arial, Helvetica, sans-serif" font-size="18">Low-fidelity screens for stakeholder review, requirement confirmation, and solution visualization</text>
+
+  <rect x="84" y="198" width="1732" height="88" rx="18" fill="#F4F7FB" stroke="#D8E1EC"/>
+  <text x="118" y="228" fill="#31495F" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Presentation Notes</text>
+  <text x="118" y="252" fill="#61707D" font-family="Arial, Helvetica, sans-serif" font-size="18">These wireframes are intentionally low-fidelity and business-focused. They are designed to support workshops,</text>
+  <text x="118" y="276" fill="#61707D" font-family="Arial, Helvetica, sans-serif" font-size="18">usability discussion, and early sign-off on scope and user flow.</text>
+
+  <rect x="84" y="300" width="822" height="500" rx="26" fill="#FFFFFF" stroke="#D7D1C6" stroke-width="2" filter="url(#shadow)"/>
+  <rect x="994" y="300" width="822" height="500" rx="26" fill="#FFFFFF" stroke="#D7D1C6" stroke-width="2" filter="url(#shadow)"/>
+  <rect x="84" y="844" width="822" height="500" rx="26" fill="#FFFFFF" stroke="#D7D1C6" stroke-width="2" filter="url(#shadow)"/>
+  <rect x="994" y="844" width="822" height="500" rx="26" fill="#FFFFFF" stroke="#D7D1C6" stroke-width="2" filter="url(#shadow)"/>
+
+  <circle cx="126" cy="338" r="18" fill="#DDEAF8"/><text x="120" y="345" fill="#23486E" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">1</text>
+  <text x="156" y="346" fill="#22364D" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Login and Role Selection</text>
+  <text x="156" y="374" fill="#6A7783" font-family="Arial, Helvetica, sans-serif" font-size="16">Supports secure access for students, librarians, and administrators.</text>
+
+  <circle cx="1036" cy="338" r="18" fill="#DDEAF8"/><text x="1030" y="345" fill="#23486E" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">2</text>
+  <text x="1066" y="346" fill="#22364D" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Dashboard and Operational Overview</text>
+  <text x="1066" y="374" fill="#6A7783" font-family="Arial, Helvetica, sans-serif" font-size="16">Highlights KPIs, alerts, and quick access to daily library operations.</text>
+
+  <circle cx="126" cy="882" r="18" fill="#DDEAF8"/><text x="120" y="889" fill="#23486E" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">3</text>
+  <text x="156" y="890" fill="#22364D" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Catalog Search and Availability</text>
+  <text x="156" y="918" fill="#6A7783" font-family="Arial, Helvetica, sans-serif" font-size="16">Enables quick book lookup, filters, and visibility into copy-level status.</text>
+
+  <circle cx="1036" cy="882" r="18" fill="#DDEAF8"/><text x="1030" y="889" fill="#23486E" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">4</text>
+  <text x="1066" y="890" fill="#22364D" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Issue / Return Transaction Screen</text>
+  <text x="1066" y="918" fill="#6A7783" font-family="Arial, Helvetica, sans-serif" font-size="16">Designed for fast circulation with validation and issue control.</text>
+
+  <rect x="126" y="404" width="738" height="344" rx="24" fill="#F8FBFF" stroke="#CBD8E6" stroke-width="2"/>
+  <rect x="152" y="416" width="686" height="44" rx="14" fill="#22364D"/>
+  <circle cx="210" cy="438" r="20" fill="#E7F2EA"/>
+  <text x="203" y="445" fill="#285943" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">L</text>
+  <text x="240" y="444" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">College Library Portal</text>
+  <rect x="278" y="516" width="434" height="50" rx="12" fill="#FFFFFF" stroke="#AAB8C6"/>
+  <rect x="278" y="584" width="434" height="50" rx="12" fill="#FFFFFF" stroke="#AAB8C6"/>
+  <rect x="278" y="654" width="132" height="44" rx="12" fill="#E6F4EA" stroke="#8DBA9D"/>
+  <rect x="429" y="654" width="132" height="44" rx="12" fill="#EAF1FF" stroke="#9DB7E3"/>
+  <rect x="580" y="654" width="132" height="44" rx="12" fill="#FFF0D9" stroke="#D9B36A"/>
+  <text x="302" y="548" fill="#67798B" font-family="Arial, Helvetica, sans-serif" font-size="18">Username / Library ID</text>
+  <text x="302" y="616" fill="#67798B" font-family="Arial, Helvetica, sans-serif" font-size="18">Password</text>
+  <text x="312" y="682" fill="#285943" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Student</text>
+  <text x="461" y="682" fill="#315887" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Librarian</text>
+  <text x="625" y="682" fill="#7D5400" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Admin</text>
+  <rect x="726" y="500" width="112" height="198" rx="16" fill="#FFFFFF" stroke="#D1DCE8"/>
+  <text x="748" y="534" fill="#6A7885" font-family="Arial, Helvetica, sans-serif" font-size="15">Notes</text>
+  <text x="748" y="568" fill="#6A7885" font-family="Arial, Helvetica, sans-serif" font-size="14">Secure login</text>
+  <text x="748" y="594" fill="#6A7885" font-family="Arial, Helvetica, sans-serif" font-size="14">Role-based</text>
+  <text x="748" y="620" fill="#6A7885" font-family="Arial, Helvetica, sans-serif" font-size="14">access</text>
+  <text x="748" y="646" fill="#6A7885" font-family="Arial, Helvetica, sans-serif" font-size="14">Simple user</text>
+  <text x="748" y="672" fill="#6A7885" font-family="Arial, Helvetica, sans-serif" font-size="14">entry</text>
+
+  <rect x="1036" y="404" width="738" height="344" rx="24" fill="#F8FBFF" stroke="#CBD8E6" stroke-width="2"/>
+  <rect x="1062" y="416" width="170" height="274" rx="16" fill="#F7FAFC" stroke="#CDD6E0"/>
+  <rect x="1262" y="434" width="182" height="92" rx="16" fill="#E6F4EA" stroke="#8DBA9D"/>
+  <rect x="1470" y="434" width="182" height="92" rx="16" fill="#FFF0D9" stroke="#D9B36A"/>
+  <rect x="1678" y="434" width="98" height="92" rx="16" fill="#EAF1FF" stroke="#9DB7E3"/>
+  <rect x="1262" y="544" width="514" height="86" rx="16" fill="#FFFFFF" stroke="#D1DCE8"/>
+  <rect x="1262" y="648" width="514" height="86" rx="16" fill="#FFF9F0" stroke="#E5D2A6"/>
+  <text x="1294" y="490" fill="#285943" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Books Issued</text>
+  <text x="1512" y="490" fill="#7D5400" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Overdues</text>
+  <text x="1690" y="480" fill="#315887" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Reser-</text>
+  <text x="1688" y="501" fill="#315887" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">vations</text>
+  <text x="1092" y="458" fill="#6B7884" font-family="Arial, Helvetica, sans-serif" font-size="16">Dashboard</text>
+  <text x="1092" y="494" fill="#6B7884" font-family="Arial, Helvetica, sans-serif" font-size="16">Catalog</text>
+  <text x="1092" y="530" fill="#6B7884" font-family="Arial, Helvetica, sans-serif" font-size="16">Members</text>
+  <text x="1092" y="566" fill="#6B7884" font-family="Arial, Helvetica, sans-serif" font-size="16">Circulation</text>
+  <text x="1092" y="602" fill="#6B7884" font-family="Arial, Helvetica, sans-serif" font-size="16">Reports</text>
+  <text x="1092" y="638" fill="#6B7884" font-family="Arial, Helvetica, sans-serif" font-size="16">Settings</text>
+  <text x="1292" y="582" fill="#61707C" font-family="Arial, Helvetica, sans-serif" font-size="16">Recent circulation activity and</text>
+  <text x="1292" y="604" fill="#61707C" font-family="Arial, Helvetica, sans-serif" font-size="16">quick operational summary</text>
+  <text x="1292" y="686" fill="#61707C" font-family="Arial, Helvetica, sans-serif" font-size="16">Alerts: overdue items, reservations</text>
+  <text x="1292" y="708" fill="#61707C" font-family="Arial, Helvetica, sans-serif" font-size="16">ready, inactive members</text>
+
+  <rect x="126" y="948" width="738" height="344" rx="24" fill="#F8FBFF" stroke="#CBD8E6" stroke-width="2"/>
+  <rect x="156" y="970" width="528" height="62" rx="12" fill="#FFFFFF" stroke="#AAB8C6"/>
+  <rect x="704" y="970" width="116" height="52" rx="12" fill="#E6F4EA" stroke="#8DBA9D"/>
+  <rect x="156" y="1048" width="664" height="88" rx="18" fill="#FFFFFF" stroke="#D1DCE8"/>
+  <rect x="156" y="1152" width="664" height="88" rx="18" fill="#FFFFFF" stroke="#D1DCE8"/>
+  <rect x="156" y="1248" width="214" height="28" rx="10" fill="#E7F6EC"/>
+  <rect x="390" y="1248" width="250" height="28" rx="10" fill="#EDF3FF"/>
+  <text x="182" y="998" fill="#67798B" font-family="Arial, Helvetica, sans-serif" font-size="17">Search by title, author, ISBN, subject,</text>
+  <text x="182" y="1020" fill="#67798B" font-family="Arial, Helvetica, sans-serif" font-size="17">or accession number</text>
+  <text x="742" y="1003" fill="#285943" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Search</text>
+  <text x="186" y="1084" fill="#22364D" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Database Management Systems</text>
+  <text x="186" y="1113" fill="#6A7885" font-family="Arial, Helvetica, sans-serif" font-size="16">Available | Rack B-07 | 4 copies | Author: Korth</text>
+  <text x="186" y="1188" fill="#22364D" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Indian Constitution and Governance</text>
+  <text x="186" y="1217" fill="#6A7885" font-family="Arial, Helvetica, sans-serif" font-size="16">Reserved | Rack C-12 | 1 copy | Author: Laxmikanth</text>
+  <text x="174" y="1267" fill="#2E6A53" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Filter by availability</text>
+  <text x="414" y="1267" fill="#385C89" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Filter by department / subject</text>
+  <rect x="698" y="1048" width="122" height="88" rx="18" fill="#FFFFFF" stroke="#D1DCE8"/>
+  <text x="724" y="1086" fill="#6A7885" font-family="Arial, Helvetica, sans-serif" font-size="15">Status</text>
+  <text x="724" y="1114" fill="#285943" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Available</text>
+  <text x="724" y="1190" fill="#6A7885" font-family="Arial, Helvetica, sans-serif" font-size="15">Status</text>
+  <text x="724" y="1218" fill="#7D5400" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Reserved</text>
+
+  <rect x="1036" y="948" width="738" height="344" rx="24" fill="#F8FBFF" stroke="#CBD8E6" stroke-width="2"/>
+  <rect x="1070" y="980" width="640" height="56" rx="14" fill="#FFFFFF" stroke="#D1DCE8"/>
+  <rect x="1070" y="1058" width="640" height="56" rx="14" fill="#FFFFFF" stroke="#D1DCE8"/>
+  <rect x="1070" y="1142" width="300" height="98" rx="18" fill="#E6F4EA" stroke="#8DBA9D"/>
+  <rect x="1404" y="1142" width="300" height="98" rx="18" fill="#FFF0D9" stroke="#D9B36A"/>
+  <rect x="1440" y="962" width="306" height="164" rx="18" fill="#FFFFFF" stroke="#D1DCE8"/>
+  <text x="1108" y="1006" fill="#67798B" font-family="Arial, Helvetica, sans-serif" font-size="17">Scan member barcode or</text>
+  <text x="1108" y="1028" fill="#67798B" font-family="Arial, Helvetica, sans-serif" font-size="17">search member ID</text>
+  <text x="1108" y="1084" fill="#67798B" font-family="Arial, Helvetica, sans-serif" font-size="17">Scan book barcode or</text>
+  <text x="1108" y="1106" fill="#67798B" font-family="Arial, Helvetica, sans-serif" font-size="17">accession number</text>
+  <text x="1472" y="1004" fill="#22364D" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Eligibility Check</text>
+  <text x="1472" y="1038" fill="#6A7885" font-family="Arial, Helvetica, sans-serif" font-size="16">Status: Active member</text>
+  <text x="1472" y="1064" fill="#6A7885" font-family="Arial, Helvetica, sans-serif" font-size="16">Issue limit: 2 of 4 used</text>
+  <text x="1472" y="1090" fill="#6A7885" font-family="Arial, Helvetica, sans-serif" font-size="16">Outstanding fine: INR 0</text>
+  <text x="1162" y="1198" fill="#285943" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Issue Book</text>
+  <text x="1484" y="1198" fill="#7D5400" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Return / Renew</text>
+
+  <rect x="84" y="1392" width="1732" height="28" rx="14" fill="#ECE6DB"/>
+  <text x="116" y="1412" fill="#677380" font-family="Arial, Helvetica, sans-serif" font-size="15">BA note: The screens emphasize quick task completion, visibility of key data, and role-based interaction rather than final UI styling.</text>
+</svg>
