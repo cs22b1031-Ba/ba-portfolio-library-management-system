@@ -38,6 +38,5 @@ Many libraries still depend on registers, handwritten issue logs, and spreadshee
 - Notifications and communication
 - Dashboards, reports, and audit support
 
-## Why This Project Is Portfolio-Ready
 
 This artifact set is structured to resemble a client-facing BA submission, with realistic content, a clear problem statement, structured requirements, supporting visuals, and measurable business outcomes. It is intended to support internship applications, interviews, case study walkthroughs, and portfolio discussions by demonstrating both analysis thinking and presentation quality.
